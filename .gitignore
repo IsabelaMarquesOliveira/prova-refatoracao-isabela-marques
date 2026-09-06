@@ -1,0 +1,17 @@
+# Ignorar arquivos compilados do Java
+*.class
+
+# Ignorar pastas geradas por IDEs (IntelliJ, VS Code, Eclipse)
+.idea/
+*.iml
+.vscode/
+.metadata/
+
+# Ignorar pastas de build e dependências locais
+out/
+target/
+bin/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
